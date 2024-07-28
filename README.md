@@ -2,8 +2,6 @@ Learning Physics -> Pulsar Astronomy.
 
 Currently working on observation data processing using GPGPU, and maybe FPGA.
 
-Source code of [simple-radio-telescope-backend](https://github.com/fxzjshm/simple-radio-telescope-backend) temporarily not available, contact for more info.
-
 Things in favor:
 * SYCL ([AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp), [DPC++](https://github.com/intel/llvm/))
 
