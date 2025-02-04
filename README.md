@@ -19,6 +19,6 @@ Dislikes:
 * CUDA
 
 <p>
-<img style="margin: auto 0.233em" src="https://github-readme-stats.vercel.app/api?username=fxzjshm&include_all_commits=true&show_icons=true&bg_color=00000000&hide_rank=true" />
+<img style="margin: auto 0.233em" src="https://github-readme-stats.vercel.app/api?username=fxzjshm&include_all_commits=true&show_icons=true&bg_color=00000000" />
 <img style="margin: auto 0.233em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxzjshm&hide=css,html,javascript,m4&layout=compact&bg_color=00000000&card_width=333" />
 </p>
